@@ -13,7 +13,7 @@ next release; rBrowser installed through Scoop does not replace itself. Its sett
 live in the user's folders (`%APPDATA%\rBrowser`, `%LOCALAPPDATA%\rBrowser`), not in Scoop's app
 folder, so an update or reinstall keeps them.
 
-Current version: 0.9.6. The manifest is written by the release workflow of
+Current version: 0.9.7. The manifest is written by the release workflow of
 [degoya/rBrowser](https://github.com/degoya/rBrowser) with every release - issues and changes go there,
 not here. The handbook's installation page:
 <https://github.com/degoya/rBrowser/wiki/installation>.
